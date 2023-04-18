@@ -1,0 +1,9 @@
+.container {
+    overflow:hidden;
+	background-color: white;
+	font-family: Sans-Serif;
+	overflow-y: auto;
+	font-size: 40px;
+	padding: 10px;
+	word-wrap:true;
+}
